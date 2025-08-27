@@ -1,1 +1,1 @@
-# Projeto Gestao de Vendas B2B
+# Projeto Gestão de Vendas B2B
